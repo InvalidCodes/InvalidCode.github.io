@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Welcome to my home~ Miao~ Here is my CSDN blog <a class="highlight-link" href="https://blog.csdn.net/weixin_45717809?spm=1000.2115.3001.5343"
+about_me_description: Welcome to my home~ Miao~ Here is my <a class="highlight-link" href="https://blog.csdn.net/weixin_45717809?spm=1000.2115.3001.5343" target="_blank" rel="noreferrer"> CSDN blog </a>
 
 # SKILLS SECTION
 # show_skills_card:
