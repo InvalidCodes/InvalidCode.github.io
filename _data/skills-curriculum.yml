@@ -11,4 +11,10 @@
 - name: Python
   weight: 4
 
+- name: Metalworking Internship
+  weight: 1
+
+- name: Robotics Mechanics
+  weight: 1
+
 
