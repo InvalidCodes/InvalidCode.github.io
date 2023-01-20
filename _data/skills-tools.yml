@@ -6,11 +6,17 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
 
 - name: Bash
   weight: 3
 
 - name: VS Code
   weight: 3
+
+- name: SolidWorks
+  weight: 3
+
+- name: Android Studio
+  weight: 1
 
