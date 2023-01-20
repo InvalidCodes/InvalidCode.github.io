@@ -34,8 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Welcome to my home~ Miao~
-Here is my CSDN blog https://blog.csdn.net/weixin_45717809?spm=1000.2115.3001.5343
+about_me_description: Welcome to my home~ Miao~ Here is my CSDN blog https://blog.csdn.net/weixin_45717809?spm=1000.2115.3001.5343
 
 # SKILLS SECTION
 # show_skills_card:
@@ -92,7 +91,7 @@ projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: stars
+  sort_by: pushed
   exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
