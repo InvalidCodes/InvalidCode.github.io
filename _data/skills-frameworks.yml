@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: ROS
-  weight: 3
+  weight: 2
 
 - name: YOLOv5
   weight: 1

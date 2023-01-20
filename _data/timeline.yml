@@ -24,15 +24,23 @@
   tags:
     - tag: C++
     - tag: Python
+  timeline-side: right
+
+- title: RoboMaster SRM
+  title-url: https://space.bilibili.com/471633037/
+  date: Sep 2021 - Sep 2022
+  subtitle: Mechanical Group
+  tags:
+    - tag: SolidWorks - 3D modeling
+    - tag: 3D printing
+    - tag: ROS
   timeline-side: left
 
 - title: RoboMaster SRM
   title-url: https://space.bilibili.com/471633037/
-  date: Sep 2021 - Sep 2023
-  subtitle: Computer Vision Group; Mechanical Group
+  date: Sep 2022 - Sep 2023
+  subtitle: Computer Vision Group
   tags:
-    - tag: SolidWorks - 3D modeling
-    - tag: 3D printing
     - tag: ROS
     - tag: slam
   timeline-side: right
