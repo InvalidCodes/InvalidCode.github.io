@@ -32,7 +32,7 @@ Example of a framework:
   weight: 3
 ```
 
-## skills-curriculum.yml
+## skills-languages.yml
 
 * `name`: Name of your programming language
 * `weight`: Describes how good you know the language - values from 1 up to 5

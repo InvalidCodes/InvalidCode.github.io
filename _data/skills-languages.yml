@@ -11,10 +11,24 @@
 - name: Python
   weight: 4
 
+# - name: Linear Algebra
+#   weight: 1
+
 - name: Metalworking Internship
   weight: 1
 
 - name: Robotics Mechanics
   weight: 1
 
+- name: Data Structure
+  weight: 2
+
+- name: Probability Theory
+  weight: 2
+
+- name: Computer Organization
+  weight: 2
+
+- name: Discrete Mathematics
+  weight: 1
 
