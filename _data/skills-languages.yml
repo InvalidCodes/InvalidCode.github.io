@@ -24,7 +24,7 @@
   weight: 2
 
 - name: Probability Theory
-  weight: 2
+  weight: 1
 
 - name: Computer Organization
   weight: 2

@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Welcome to my home~ Miao~ Here is my <a class="highlight-link" href="https://blog.csdn.net/weixin_45717809?spm=1000.2115.3001.5343" target="_blank" rel="noreferrer"> CSDN blog </a>
+about_me_description: More about my learning route':' <a class="highlight-link" href="https://blog.csdn.net/weixin_45717809?spm=1000.2115.3001.5343" target="_blank" rel="noreferrer"> CSDN blog </a>
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://antinomicaede.com/
 
 # PROJECTS SECTION
 # show_projects_card:
